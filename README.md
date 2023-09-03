@@ -34,4 +34,4 @@ El juego continúa hasta que el jugador decide salir del juego ingresando "salir
 Para ejecutar el programa, asegúrate de tener Python instalado en tu computadora. Luego, guarda el código en un archivo con extensión ".py" y ejecútalo desde la línea de comandos o una IDE de Python.
 
 ```bash
-python nombre_del_archivo.py
+python Main.py
